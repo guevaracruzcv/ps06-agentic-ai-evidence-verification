@@ -1,0 +1,6 @@
+﻿Institution,Extraction Status,Reference Status,Reference Field Matches,Field Differences,PDF Arithmetic Status,Reference Arithmetic Status,Comparison Outcome
+Ministry of Education and Sports,PARSED,FOUND,7/7,,REVIEW,REVIEW,MATCH
+Ministry of Internal Administration,PARSED,FOUND,7/7,,MATCH,MATCH,MATCH
+Ministry of Rural Development,PARSED,FOUND,7/7,,MATCH,MATCH,MATCH
+Ministry of Health,PARSED,FOUND,7/7,,MATCH,MATCH,MATCH
+Ministry of Finance and Planning,PARSED,FOUND,7/7,,MATCH,MATCH,MATCH
