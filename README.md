@@ -59,7 +59,10 @@ Python tool: REINSPECT_SOURCE (read-only PDF reinspection)
 agent_v1_decision_log.jsonl: action, evidence, outcome, errors
            |
            v
-Human-review status: PENDING (no automatic correction or approval)
+Technical verification: COMPLETED
+Source discrepancy: CONFIRMED
+Human adjudication: NOT PERFORMED
+Logged human-review status: PENDING
 ```
 
 **Separation of responsibilities:** Python performs extraction, arithmetic and source reinspection; the model selects an action under a constrained prompt and schema. The prompt explicitly favors source reinspection. This is a bounded action-selection demonstration, **not** an open-ended planning agent.
